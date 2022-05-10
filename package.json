@@ -1,0 +1,23 @@
+{
+  "name": "realbaddiebot",
+  "version": "1.0.0",
+  "description": "Bot that will show REAL BADDIES, sheeee!",
+  "main": "server.js",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2",
+    "memejs": "^2.0.1",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "random-puppy": "^1.1.0",
+    "snoowrap": "^1.23.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
